@@ -3,7 +3,7 @@
 
 # RandomPasswordGenerator-Website
 ## Table of Contents 
-* [Overview] (#overview)
+* [Overview](#overview)
 * [Installation](#installation)
 * [Html changes](#html-changes)
 * [CSS changes](#css-changes)
