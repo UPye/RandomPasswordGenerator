@@ -1,11 +1,9 @@
 # Password Generator Starter Code
 
-Worked with Cody, Kevin, and Kip. We consolidated code together to minimize how much code we were using. I implemented a randomizer script from https://randojs.com/1.0.0.js to make the code more random because it wasn't random enough. Before implementing the code from that link, the randomized code we used used all numbers, 1 uppercase, 1 lowercase, and 1 special character for ALL password. Now, it is a fully functioning random password generator, and every password is completely different.
 
-
-
-# horiseon-website
+# RandomPasswordGenerator-Website
 ## Table of Contents 
+* [Overview] (#overview)
 * [Installation](#installation)
 * [Html changes](#html-changes)
 * [CSS changes](#css-changes)
@@ -14,6 +12,8 @@ Worked with Cody, Kevin, and Kip. We consolidated code together to minimize how 
 * [Credits](#credits)
 * [Some help from the web](#some-help-from-the-web)
 * [License](#license)
+
+## Overview
 I am adding JavaScript to make the password generator actually work.
 ## Installation
 When clicking the link to my site in this README and it will take you to the landing page for the site. 
@@ -24,9 +24,9 @@ No changes
 ## Link to site
 https://upye.github.io/week-3-challenge
 ## Screenshot of landing page
-![alt text](assets/images/screenshot-horiseon-website.png)
+![alt text](Develop\Full page.jpg)
 ## Credits
-Thanks for all the help from Carlos for making this happen with GIT and GITHUB; changing computers in the middle of all this can really put a screw in things. 
+I want to thank Cody, Kevin, and Kip. We consolidated code together to minimize how much code we were using, and I want to thank the people who created the https://randojs.com/ site because it helped make my password generator more random with the characters. Before implementing the code from that link, the randomized code we used used all numbers, 1 uppercase, 1 lowercase, and 1 special character for ALL password. Now, it is a fully functioning random password generator, and every password is completely different.
 ## Some help from the web
 /* helped me with making the password more random
 https://randojs.com/
